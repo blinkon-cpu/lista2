@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     float a, b, c, aux;
 
     printf("Digite tres numeros: ");
