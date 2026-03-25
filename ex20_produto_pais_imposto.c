@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int codigo_produto, codigo_pais;
     float peso_kg, peso_g, preco_grama, preco_total, percentual_imposto, imposto, valor_total;
 
