@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 
-int main(void) {
+int main() {
     time_t agora;
     struct tm *data_hora;
     const char *meses[] = {
