@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     float salario, bonificacao, auxilio, novo_salario;
 
     printf("Digite o salario: ");
