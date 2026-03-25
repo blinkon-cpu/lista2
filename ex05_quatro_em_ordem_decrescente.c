@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     float n1, n2, n3, n4, aux;
 
     printf("Digite tres numeros em ordem crescente: ");
