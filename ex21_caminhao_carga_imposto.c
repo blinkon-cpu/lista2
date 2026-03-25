@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int codigo_estado, codigo_carga;
     float peso_ton, peso_kg, preco_quilo, preco_carga, percentual_imposto, imposto, total;
 
