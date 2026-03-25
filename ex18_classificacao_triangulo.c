@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     float x, y, z;
 
     printf("Digite os tres lados do triangulo: ");
