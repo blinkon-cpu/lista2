@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int d1, m1, a1, d2, m2, a2;
 
     printf("Digite a primeira data (dd mm aaaa): ");
