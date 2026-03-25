@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int codigo;
     float salario, percentual = 0.0f, aumento, novo_salario;
     char cargo[20];
