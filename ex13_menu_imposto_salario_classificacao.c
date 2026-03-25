@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int opcao;
     float salario, imposto, novo_salario;
 
