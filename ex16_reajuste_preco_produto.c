@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     float preco_atual, venda_mensal, novo_preco;
 
     printf("Digite o preco atual do produto: ");
