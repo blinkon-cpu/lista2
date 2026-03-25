@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int hi, mi, hf, mf;
     int inicio, fim, duracao, horas, minutos;
 
