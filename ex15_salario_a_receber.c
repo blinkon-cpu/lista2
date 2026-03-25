@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     float salario_minimo, valor_hora, salario_mes, valor_dependentes;
     float valor_hora_extra, valor_extras, salario_bruto, irrf;
     float salario_liquido, gratificacao, salario_receber;
