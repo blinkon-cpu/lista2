@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(void) {
+int main() {
     float a, b, c, delta, x1, x2;
 
     printf("Digite os coeficientes a, b e c: ");
