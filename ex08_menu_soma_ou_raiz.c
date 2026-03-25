@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(void) {
+int main() {
     int opcao;
     float a, b;
 
