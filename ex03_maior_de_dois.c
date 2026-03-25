@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     float a, b;
 
     printf("Digite dois numeros: ");
